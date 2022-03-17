@@ -1,7 +1,8 @@
 # stats220
 ## Things to know
 1. https://github.com/JiamingLi08/stats220
-2. This is for Stats220 Assignment 1
+2. I am studying data science in [University of Auckland](https://www.auckland.ac.nz/en.html).
+3. This is for Stats220 Assignment 1
 ## What I have done
 * Made a meme by R
 * Created a Github account
